@@ -1,16 +1,106 @@
-## Hi there 👋
+# Hi there 👋 I'm Vijay Athithyaa Ramya Rajasimman
 
-<!--
-**Vijayy16/Vijayy16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MS in Business Analytics & Artificial Intelligence**  
+📊 **Business Analyst | Data Analyst | AI & Analytics Enthusiast**  
+📍 **Dallas, TX, United States**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💼 About Me
+
+I am a Business Analytics & AI graduate student with hands-on experience delivering end-to-end,
+data-driven solutions across analytics, marketing, operations, and AI-enabled decision systems.
+
+I specialize in translating complex datasets into actionable business insights using SQL, Python,
+Tableau, Power BI, and machine learning models to support strategic and executive decision-making.
+
+I am actively seeking full-time opportunities in:
+
+- Business Analyst  
+- Data Analyst  
+- Analytics & Strategy Roles  
+
+---
+
+## 🧠 Skills
+
+**Analytics & Visualization**
+- Tableau, Power BI, Advanced Excel, Adobe Analytics, Google Analytics, Alteryx
+
+**Programming & Data**
+- Python, SQL, R, Pandas, NumPy, Machine Learning
+
+**Databases**
+- MySQL, PostgreSQL, SQL Server, MongoDB
+
+**Business & Soft Skills**
+- Stakeholder Communication, Problem-Solving, Strategic Thinking, Leadership
+
+---
+
+## 📊 Featured Projects
+
+### 🏠 Airbnb Price Analysis
+Applied data mining and machine learning techniques to analyze pricing determinants for Airbnb listings.  
+**Models:** Decision Tree, Neural Network, Logistic Regression  
+**Impact:** ~19% improvement in pricing optimization  
+
+🔗 https://github.com/Vijayy16/airbnb-price-analysis
+
+---
+
+### 📈 Business Performance & KPI Analytics Dashboard
+Designed Tableau and Power BI dashboards to track business KPIs and improve reporting efficiency.
+
+🔗 *(Repo coming soon)*
+
+---
+
+### 💳 Credit Card Fraud Detection
+Built machine learning models on imbalanced datasets using SMOTE to improve fraud detection accuracy.
+
+🔗 *(Repo coming soon)*
+
+---
+
+### 🧠 Smart Voting System (AI)
+Developed an AI-powered smart voting system to enhance election security and transparency.
+
+🔗 *(Repo coming soon)*
+
+---
+
+## 💼 Work Experience
+
+**Business Analyst Intern – Med Tour Easy**  
+Improved data processing efficiency by 20% and automated reporting workflows using Tableau and Excel.
+
+**Data Analytics Intern – Kaashiv Infotech**  
+Delivered analytical insights that reduced reporting turnaround time by 15%.
+
+**Lab Data Analyst Intern – Pinnacle Smart Meters**  
+Analyzed sensor data to improve data accuracy and reporting efficiency by 18%.
+
+---
+
+## 📄 Resume
+📌 **Download Resume**  
+👉 https://vijayy16.github.io/vijayathithyaa.github.io/resume_v2.pdf
+
+---
+
+## 🔗 Portfolio & Contact
+
+🌐 **Portfolio Website**  
+👉 https://vijayy16.github.io/vijayathithyaa.github.io/
+
+💼 **LinkedIn**  
+👉 https://www.linkedin.com/in/vijayathithyaa
+
+📧 **Email**  
+👉 vijayathithyaa2002@gmail.com
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
+
