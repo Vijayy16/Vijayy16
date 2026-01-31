@@ -57,6 +57,12 @@ Designed Tableau and Power BI dashboards to track business KPIs and improve repo
 
 ---
 
+### Performance Prediction of Start-ups (USA)
+Built a predictive model to estimate startup success or failure using historical data and key business factors to support investor and entrepreneurial decisions.
+
+---
+
+
 ### 💳 Credit Card Fraud Detection
 Built machine learning models on imbalanced datasets using SMOTE to improve fraud detection accuracy.
 
@@ -67,7 +73,7 @@ Built machine learning models on imbalanced datasets using SMOTE to improve frau
 ### 🧠 Smart Voting System (AI)
 Developed an AI-powered smart voting system to enhance election security and transparency.
 
-🔗 *(Repo coming soon)*
+🔗 https://github.com/Vijayy16/Smart-AI-Fingerprint-Authentication-System 
 
 ---
 
