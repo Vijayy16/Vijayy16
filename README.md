@@ -60,6 +60,8 @@ Designed Tableau and Power BI dashboards to track business KPIs and improve repo
 ### Performance Prediction of Start-ups (USA)
 Built a predictive model to estimate startup success or failure using historical data and key business factors to support investor and entrepreneurial decisions.
 
+🔗 https://github.com/Vijayy16/Performance-Prediction-of-Start-ups-USA-/blob/main/README.md
+
 ---
 
 
