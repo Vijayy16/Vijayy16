@@ -52,7 +52,8 @@ Applied data mining and machine learning techniques to analyze pricing determina
 ### 📈 Business Performance & KPI Analytics Dashboard
 Designed Tableau and Power BI dashboards to track business KPIs and improve reporting efficiency.
 
-🔗 *(Repo coming soon)*
+🔗  Performance-Prediction-of-Start-ups-USA-
+
 
 ---
 
