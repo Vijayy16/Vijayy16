@@ -60,7 +60,7 @@ Designed Tableau and Power BI dashboards to track business KPIs and improve repo
 ### 💳 Credit Card Fraud Detection
 Built machine learning models on imbalanced datasets using SMOTE to improve fraud detection accuracy.
 
-🔗 *(Repo coming soon)*
+🔗 https://github.com/Vijayy16/Credit-Card-Fraud-Detection-on-Imbalanced-Dataset/blob/main/README.md
 
 ---
 
