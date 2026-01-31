@@ -72,6 +72,11 @@ Developed an AI-powered smart voting system to enhance election security and tra
 
 ## 💼 Work Experience
 
+On the Roof, Business Analyst (Tableau, Power BI, KPI Reporting) 	   
+Analyzed sales and operational data from POS systems and vendor records to identify revenue trends, cost leakages, and process gaps. Consolidated and structured datasets to improve accuracy and management visibility across daily and weekly operations.
+Built automated Excel and Power BI dashboards to track revenue, order volume, inventory usage, and labor costs, reducing manual reporting effort by 30% and data-driven decisions that improved operational efficiency and cost control.
+
+
 **Business Analyst Intern – Med Tour Easy**  
 Improved data processing efficiency by 20% and automated reporting workflows using Tableau and Excel.
 
